@@ -5,4 +5,5 @@
 
 ## job post by company
 ![bar](https://raw.githubusercontent.com/mzbac/2018-March-fun-analysis/master/job%20post%20by%20company.png)
-## Interestingly seek needs to improve their search engine. as we see here by searching 'developer' keyword, Real Estate Career Developers's posts appear in the result but their job post has nothing to do with developer jobs.
+
+Interestingly seek needs to improve their search engine. as we see here by searching 'developer' keyword, Real Estate Career Developers's posts appear in the result but their job post has nothing to do with developer jobs.
