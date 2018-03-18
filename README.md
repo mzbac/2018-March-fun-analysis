@@ -1,4 +1,4 @@
-# Interesting findings of developer jobs in melbourne
+# Interesting findings of developer jobs in Melbourne and Sydney
 
 ## technologies mentioned in Melbourne 
 ![bar](https://raw.githubusercontent.com/mzbac/2018-March-job-analysis/master/seek_jobs_Melbourne.png)
